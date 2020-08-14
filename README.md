@@ -1,2 +1,0 @@
-# pastormessage
-pastor message
